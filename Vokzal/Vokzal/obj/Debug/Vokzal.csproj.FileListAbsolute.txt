@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Vokzal\Vokzal\bin\Debug\Vokzal.exe.config
+C:\Users\user\Desktop\Vokzal\Vokzal\bin\Debug\Vokzal.exe
+C:\Users\user\Desktop\Vokzal\Vokzal\bin\Debug\Vokzal.pdb
+C:\Users\user\Desktop\Vokzal\Vokzal\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.Form1.resources
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.Form2.resources
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.Properties.Resources.resources
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.csproj.Up2Date
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.exe
+C:\Users\user\Desktop\Vokzal\Vokzal\obj\Debug\Vokzal.pdb
